@@ -4,6 +4,7 @@ using namespace std;
 class Valuta{
 private:
     int valuta;
+    float a;
 public:
     Valuta(int dollars) {valuta = dollars;}
 
