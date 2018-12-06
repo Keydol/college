@@ -27,5 +27,9 @@ Valuta operator+(int value, const Valuta &d1) {
 }
 
 int main() {
+    Valuta v1(51);
+    Valuta v2(31);
+    Valuta v3(41);
 
+    return 0;
 }
